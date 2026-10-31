@@ -1,25 +1,26 @@
 <div align="center">
-  
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Abel Alelign
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Technical+Project+Manager+%26+Product+Lead;Senior+Backend+Systems+Developer;Agile+Delivery+%26+Cross-Functional+Leadership;Scalable+API+%26+Database+Architecture" alt="Typing SVG" />
+# ✨ Welcome to My GitHub Universe! ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hi+there!+I'm+Abel+Alelign;Technical+Project+Manager;Backend+Systems+Developer;Agile+Delivery+%26+Architecture" alt="Typing SVG" />
 
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+![visitors](https://komarev.com/ghpvc/?username=abelAlelign&label=visitors&color=0e75b6&style=flat)
 
-```javascript
-const abelAlelign = {
-    name: "Abel Alelign",
-    location: "Addis Ababa, Ethiopia 🇪🇹",
-    role: "Technical Project Manager & Backend Developer",
-    experience: "3 years",
-    availability: "Open to remote & freelance opportunities",
-    passion: ["Agile Leadership", "Scalable Architecture", "Clean Code", "User Experience"],
-    currentFocus: "Leading cross-functional teams & architecting next-generation backend systems",
-    contact: "abelmichael1219@gmail.com"
-};
-```
+## 🌱 About Me
+
+- 💼 **Role:** Technical Project Manager & Backend Developer (3+ Years Experience)
+
+- 📍 **Location:** Addis Ababa, Ethiopia 🇪🇹
+
+- 💡 **Ask me about:** **Agile Project Management | Node.js | Spring Boot | Python | System Architecture**
+
+- 🚀 **Current Focus:** Leading cross-functional engineering teams & building scalable backend applications
+
+- 📫 **How to reach me:** [abelmichael1219@gmail.com](mailto:abelmichael1219@gmail.com)
+
+- ⚡ **Passion:** Turning complex ideas into clean code, scalable architecture, and seamless user experiences 🇪🇹
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -50,27 +51,5 @@ const abelAlelign = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> What I Bring to the Table
-
-<div align="center">
-
-| 📋 Agile Project Delivery | ⚙️ Backend Engineering | 🤝 Technical Leadership |
-| :--- | :--- | :--- |
-| • Sprint planning & roadmap execution<br>• Workflow automation in **Jira, Trello & Notion**<br>• Stakeholder communication & risk mitigation | • High-performance REST & GraphQL APIs<br>• Scalable database design (**SQL & NoSQL**)<br>• Microservices with **Node.js & Spring Boot** | • Translating business goals into tech specs<br>• Code reviews & engineering best practices<br>• Cross-functional team alignment |
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Email Me](https://img.shields.io/badge/Reach_Out-abelmichael1219%40gmail.com-36BCF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelmichael1219@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
