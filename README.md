@@ -14,7 +14,7 @@
 
 - 📍 **Location:** Addis Ababa, Ethiopia 🇪🇹
 
-- 💡 **Ask me about:** **Agile Project Management | Node.js | Spring Boot | Python | System Architecture**
+- 💡 **Ask me about:** **Agile Project Management | Node.js | Express.js | Python | System Architecture**
 
 - 🚀 **Current Focus:** Leading cross-functional engineering teams & building scalable backend applications
 
@@ -33,17 +33,21 @@
 <div align="center">
 
 ### Frontend Technologies
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" alt="Frontend technologies" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,tailwind" height="48" alt="Frontend technologies" />
+</p>
 
 ### Management Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=notion" height="48" alt="Notion" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" alt="Jira" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="48" alt="Trello" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="48" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="48" alt="Trello" />
 </p>
 
 ### Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,python,graphql,postgres,mysql,mongodb" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,mongodb" alt="Backend technologies" />
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" alt="DevOps and tools" />
